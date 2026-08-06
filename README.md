@@ -31,4 +31,4 @@ Backend / full-stack software engineer in Brooklyn, NY. I build reliable APIs, d
 
 **Site & résumé** [zubairmuwwakil.com](https://zubairmuwwakil.com) · **LinkedIn** [/in/zubairmuwwakil](https://www.linkedin.com/in/zubairmuwwakil/) · **Email** zmuwwakil@gmail.com
 
-*Open to backend and full-stack roles — Brooklyn, NY. Remote, hybrid, or onsite. US citizen.*
+*Open to backend and full-stack roles — Brooklyn, NY. Remote, hybrid, or onsite. USA & Canadian Citizen.*
