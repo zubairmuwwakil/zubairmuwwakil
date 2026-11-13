@@ -6,14 +6,17 @@ Backend / full-stack software engineer in Brooklyn, NY. I build reliable APIs, d
 
 🚀 **Shipped** — [The Pickleball Social](https://apps.apple.com/us/app/the-pickleball-social/id6759585852) on the iOS App Store, maintained through 21 releases in five months. Offline-first sync with version conflict resolution, Glicko-2 ratings, DUPR single sign-on, and Bluetooth proximity discovery.
 
-### Selected work
+### Start here: three projects with real code and tests
 
-| Project | What it is | Stack |
+Each of these case studies starts with a quick architecture overview and links to the implementation, not just an app screenshot.
+
+| Project | What I built | What you can inspect |
 |---|---|---|
-| **[PickleOps — The Pickleball Social](https://zubairmuwwakil.com/projects/pickleops/)** | Shipped iOS + web product for running club pickleball | React Native · Next.js · TypeScript · Prisma · Postgres |
-| **[MarketLens](https://zubairmuwwakil.com/projects/marketlens/)** | Market data pipeline with idempotent ingestion, rate limiting, and full observability | Java 21 · Spring Boot · Postgres · Flyway · Bucket4j · OTLP |
-| **[Looply](https://zubairmuwwakil.com/projects/looply/)** | Finance assistant that turns inbox data into deadlines and retry-safe reminders | Next.js · TypeScript · Prisma · Neon Postgres · Stripe |
-| **[MindSky](https://zubairmuwwakil.com/projects/mindsky/)** | Visual thought mapping with snapshot undo/redo and debounced autosave | React · React Flow · Node · Postgres (JSONB) |
+| **[The Pickleball Social](https://zubairmuwwakil.com/projects/pickleops/)** | Shipped web + iOS workflows for clubs and players | [Offline conflict handling](https://github.com/zubairmuwwakil/pickleball-session-manager/blob/main/apps/mobile/src/core/offline/offline.conflict-resolver.ts) · [Retry tests](https://github.com/zubairmuwwakil/pickleball-session-manager/blob/main/apps/mobile/src/core/offline/offline.idempotency.test.ts) |
+| **[MarketLens](https://zubairmuwwakil.com/projects/marketlens/)** | Java market-data ingestion and freshness-aware APIs | [Ingestion service](https://github.com/zubairmuwwakil/marketdata/blob/main/src/main/java/com/zubairmuwwakil/marketdata/service/ingestion/IngestionService.java) · [Quote tests](https://github.com/zubairmuwwakil/marketdata/blob/main/src/test/java/com/zubairmuwwakil/marketdata/guardrails/PriceHonestyTest.java) |
+| **[Inunity](https://zubairmuwwakil.com/projects/inunity/)** | Financial capture, ledger, and cross-source purchase reconciliation | [Wallet tests](https://github.com/zubairmuwwakil/MoneyTalks/blob/main/src/lib/domain/wallet/capturePayload.test.ts) · [Matching tests](https://github.com/zubairmuwwakil/MoneyTalks/blob/main/src/lib/domain/spine/purchaseMerge.test.ts) |
+
+Also: [Looply](https://zubairmuwwakil.com/projects/looply/) for commerce and email workflows, and [MindSky](https://zubairmuwwakil.com/projects/mindsky/) for interactive graph UI work.
 
 ### What I work with
 
