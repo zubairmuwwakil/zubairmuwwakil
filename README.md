@@ -4,7 +4,7 @@ Backend / full-stack software engineer in Brooklyn, NY. I build reliable APIs, d
 
 🔭 **Currently** — Software Engineer (contract) at G2i, building Django backend services: REST APIs, background jobs, and PostgreSQL/SQL Server schema and query work, shipped through Dockerized CI.
 
-🚀 **Shipped** — [The Pickleball Social](https://apps.apple.com/us/app/the-pickleball-social/id6759585852) on the iOS App Store, maintained through 21 releases in five months. Offline-first sync with version conflict resolution, Glicko-2 ratings, DUPR single sign-on, and Bluetooth proximity discovery.
+🚀 **Shipped** — [The Pickleball Social](https://apps.apple.com/us/app/the-pickleball-social/id6759585852) on the iOS App Store, maintained through 29 releases since March 2026. Offline-first sync with version conflict resolution, Glicko-2 ratings, DUPR single sign-on, and Bluetooth proximity discovery.
 
 ### Start here: three projects with real code and tests
 
@@ -34,4 +34,4 @@ Also: [Looply](https://zubairmuwwakil.com/projects/looply/) for commerce and ema
 
 **Site & résumé** [zubairmuwwakil.com](https://zubairmuwwakil.com) · **LinkedIn** [/in/zubairmuwwakil](https://www.linkedin.com/in/zubairmuwwakil/) · **Email** zmuwwakil@gmail.com
 
-*Open to backend and full-stack roles — Brooklyn, NY. Remote, hybrid, or onsite. USA & Canadian Citizen.*
+*Computer Science undergraduate at Ontario Tech (expected April 2028). Open to Summer 2027 internships and backend / full-stack roles — Brooklyn, NY. Remote, hybrid, or onsite. U.S. & Canadian citizen, no sponsorship required.*
