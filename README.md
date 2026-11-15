@@ -1,10 +1,14 @@
 ## Zubair Muwwakil
 
-Backend / full-stack software engineer in Brooklyn, NY. I build reliable APIs, data pipelines, and products that people actually use.
+I'm a computer science student at Ontario Tech, finishing a degree a car accident interrupted. I kept building the whole way through.
 
-🔭 **Currently** — Software Engineer (contract) at G2i, building Django backend services: REST APIs, background jobs, and PostgreSQL/SQL Server schema and query work, shipped through Dockerized CI.
+The clearest example started with pickleball. I was coaching at a school in Courtice, watching coaches write out schedules by hand instead of coaching, and I figured I could fix it. That turned into The Pickleball Social, now on the App Store across 29 releases with 1,000+ players using it.
 
-🚀 **Shipped** — [The Pickleball Social](https://apps.apple.com/us/app/the-pickleball-social/id6759585852) on the iOS App Store, maintained through 29 releases since March 2026. Offline-first sync with version conflict resolution, Glicko-2 ratings, DUPR single sign-on, and Bluetooth proximity discovery.
+I like problems where the software has to hold up for real people who never see the code.
+
+🔭 **Currently.** Software Engineer (contract) at G2i, building Django backend services: REST APIs, background jobs, and PostgreSQL/SQL Server schema and query work, shipped through Dockerized CI.
+
+🚀 **Shipped.** [The Pickleball Social](https://apps.apple.com/us/app/the-pickleball-social/id6759585852) on the iOS App Store, maintained through 29 releases since March 2026, behind 17,000+ automated tests and seven CI workflows. Offline-first sync with version conflict resolution, Glicko-2 ratings, DUPR single sign-on, and Bluetooth proximity discovery.
 
 ### Start here: three projects with real code and tests
 
@@ -20,7 +24,7 @@ Also: [Looply](https://zubairmuwwakil.com/projects/looply/) for commerce and ema
 
 ### What I work with
 
-**Languages** Java · Python · TypeScript / JavaScript · C# · SQL
+**Languages** Java · Python · TypeScript / JavaScript · Swift · C# · SQL
 **Backend** Spring Boot · Django · REST APIs · OpenAPI / Swagger
 **Data** PostgreSQL · SQL Server (T-SQL) · Prisma · Flyway · migrations, indexing, query tuning
 **Reliability** Prometheus / Micrometer · OpenTelemetry · structured logging · idempotent reprocessing
@@ -28,10 +32,10 @@ Also: [Looply](https://zubairmuwwakil.com/projects/looply/) for commerce and ema
 
 ### Writing
 
-- [Why scorekeeping had to work with no signal](https://zubairmuwwakil.com/blog/offline-first-sync-on-a-pickleball-court/) — offline-first sync, version conflict resolution, and why last-write-wins quietly corrupts data
+- [Why scorekeeping had to work with no signal](https://zubairmuwwakil.com/blog/offline-first-sync-on-a-pickleball-court/). Offline-first sync, version conflict resolution, and why last-write-wins quietly corrupts data.
 
 ### Elsewhere
 
 **Site & résumé** [zubairmuwwakil.com](https://zubairmuwwakil.com) · **LinkedIn** [/in/zubairmuwwakil](https://www.linkedin.com/in/zubairmuwwakil/) · **Email** zmuwwakil@gmail.com
 
-*Computer Science undergraduate at Ontario Tech (expected April 2028). Open to Summer 2027 internships and backend / full-stack roles — Brooklyn, NY. Remote, hybrid, or onsite. U.S. & Canadian citizen, no sponsorship required.*
+*Computer Science undergraduate at Ontario Tech, expected April 2028. Open to Summer 2027 internships and backend / full-stack roles in New York. Remote, hybrid, or onsite. U.S. and Canadian citizen, no sponsorship required.*
