@@ -38,4 +38,6 @@ Also: [Looply](https://zubairmuwwakil.com/projects/looply/) for commerce and ema
 
 **Site & résumé** [zubairmuwwakil.com](https://zubairmuwwakil.com) · **LinkedIn** [/in/zubairmuwwakil](https://www.linkedin.com/in/zubairmuwwakil/) · **Email** zmuwwakil@gmail.com
 
+**Organizations** [Echelon Community Athletics](https://echeloncommunity.ca/) (independent nonprofit I founded) · [Zemi Echelon](https://zemiechelon.com/) (software business I founded)
+
 *Computer Science undergraduate at Ontario Tech, expected April 2028. Open to Summer 2027 internships and backend / full-stack roles in New York. Remote, hybrid, or onsite. U.S. and Canadian citizen, no sponsorship required.*
